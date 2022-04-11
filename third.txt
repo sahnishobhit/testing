@@ -1,2 +1,3 @@
 this is a third file --> local
 added by remote
+new local line
